@@ -18,5 +18,4 @@ function ceaser(word, key){
     return result;
 }
 
-console.log(ceaser("WORKING", 5))
 module.exports = ceaser;
